@@ -4,7 +4,7 @@ David Bhisma Laksana
 173040056
 https://github.com/davidbhsm/pw2021_173040056
 Pertemuan 3 - 24 September 2021
-Mempelajari inheritance php
+Mempelajari inheritance oophp
 */ 
 ?>
 
